@@ -1,3 +1,9 @@
-h1 {
-    color: blue;
+#pageTitle {
+    text-align: center;
     }
+
+img {
+    width: 60%;
+    margin: auto;
+    display: block;
+}
