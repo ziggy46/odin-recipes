@@ -2,6 +2,10 @@
     text-align: center;
     }
 
+img #food {
+    max-width: 200px
+}
+
 img {
     width: 60%;
     margin: auto;
